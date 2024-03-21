@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(104, 108, 129);
+    margin: 0;
+    padding: 0;
+}
+header {
+    background-color: rgb(114, 143, 153);
+    color: beige;
+    text-align: center;
+    padding: 20px;
+}
+main {
+    padding: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
